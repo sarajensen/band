@@ -6,8 +6,12 @@
  float:right;
  width: 20%;
  background-color: yellow;
+ padding: 4px;
+ border: 2px solid green;
+ margin: 12px;
 }
 
 img {
   float: left;
+  padding: 20px;
 }
