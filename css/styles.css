@@ -1,0 +1,13 @@
+.size {
+  width: 400px;
+
+}
+.sidebar {
+ float:right;
+ width: 20%;
+ background-color: yellow;
+}
+
+img {
+  float: left;
+}
